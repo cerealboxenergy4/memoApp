@@ -13,7 +13,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        scaffoldBackgroundColor: const Color(0xFFC2CFB2),
+        scaffoldBackgroundColor: const Color(0xFFEAD2AC),
         cardColor: Color(0xFF111318),
         textTheme: TextTheme(
           displayLarge: GoogleFonts.openSans(
